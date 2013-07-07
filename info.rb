@@ -15,3 +15,5 @@ state = gets.chomp
 state.upcase!
 
 puts "Your name is #{first_name} #{last_name} and you're from #{city}, #{state}!"
+
+puts "So now that you know few basics of RUBY, #{first_name} lets get started"
